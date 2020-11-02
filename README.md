@@ -109,7 +109,8 @@ Ideas I was already familiar with before starting: I have a basic understanding 
 
 Ideas I was not familar with before starting: The only time I had practiced with the terminal before starting week 1 unit was for the SSH keys in the prework. GitHub was also very foreign to me.
 
-Trouble areas: At first, I was very confused about how to initially upload files into GitHub. In the original code, I uploaded the files manually without using the push command on my terminal. Thankfully, I found a helpful guide in Unit 2 with instructions on how to create branches and push the updated files.
+Trouble areas: At first, I was very confused about how to initially upload files into GitHub. In the original code, I uploaded the files manually without using the push command on my terminal. Thankfully, I found a helpful guide in Unit 2 with instructions on how to push the updated files.
+WHen I first uploaded my edited file to GitHub, I created a new branch instead of pushing the info onto the main page. I had trouble merging the newly created branch to the main page.
 
 Things I want to continue to work on: Pulling/commiting/pushing files to GitHub
 
